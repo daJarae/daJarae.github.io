@@ -13,7 +13,7 @@ permalink: /about/
 
 <cite>열심히 배우고 성장합시다~</cite> <code>XD</code>
 
-#사진 넣는 방법
-#![麋鹿](https://i.imgur.com/Mdc4szJl.jpg){: .img-about}
+#내가 그린 그림
+#![麋鹿](https://ibb.co/2KNnFTz){: .img-about}
 
 
