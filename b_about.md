@@ -13,7 +13,4 @@ permalink: /about/
 
 <cite>열심히 배우고 성장합시다~</cite> <code>XD</code>
 
-#내가 그린 그림
-#![麋鹿](https://ibb.co/2KNnFTz){: .img-about}
-
 
