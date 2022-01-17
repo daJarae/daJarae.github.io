@@ -10,12 +10,12 @@ url: "https://yulijia.net/freshman21" # the base hostname & protocol for your si
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
+twitter_username: 
 github_username:  daJarae
-disqus_shortname: freshman21
+disqus_shortname: 
 favicon:     "/images/flower.png"
-aboutme: Hi, this is Jarae. I'm learning ML, DL & NLP! # these are shown on aboutme-sidebar.
-aboutme_photo: "/images/flower.png"
+aboutme: Hi, this is Jarae. I'm learning NLP! # these are shown on aboutme-sidebar.
+aboutme_photo: "https://ibb.co/2KNnFTz"
 google_analytics_key: 
 
 
